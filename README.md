@@ -22,7 +22,7 @@ Phoenix-MD Multi Device Whatsapp Bot.
 
 Fork The Repo
     <br>
-<a href="https://github.com/Godsoulsolos/Phoenix-MD/fork"><img title="Phoenix-MD" src="https://img.shields.io/badge/FORK Phoenix MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Godsoulsolos/PHOENIXS-MD/fork"><img title="Phoenix-MD" src="https://img.shields.io/badge/FORK Phoenix MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 Scan QR Code
     <br>
@@ -38,7 +38,7 @@ Scan QR Code
 
 ### Deploy Heroku 
 
-<a href="https://heroku.com/deploy?template=https://github.com/Godsoulsolos/Phoenix-MD/"><img title="Phoenix-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Godsoulsolos/PHOENIXS-MD/"><img title="Phoenix-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 ### Deploy Railway
 
