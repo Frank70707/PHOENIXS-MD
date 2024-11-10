@@ -18,7 +18,7 @@ module.exports = {
   
   AUTO_STATUS_READ: process.env.AUTO_STATUS_READ || 'false',
   
-  SESSION_ID: process.env.SESSION_ID || "", //Enter Your Session Id Here
+  SESSION_ID: process.env.SESSION_ID || "Phoenix~fijukivudu", //Enter Your Session Id Here
   
   SUDO: process.env.SUDO || "919074692450",
   
@@ -44,9 +44,9 @@ module.exports = {
   
   OWNER_NAME: process.env.OWNER_NAME || "Abhishek Suresh",
   
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "919074692450",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "256765050916",
   
-  BOT_NAME: process.env.BOT_NAME || "Phoenix-MD",
+  BOT_NAME: process.env.BOT_NAME || "FIRE.WALL.BOT",
   
   WORK_TYPE: process.env.WORK_TYPE || "public",
   //---------------------------------------------
